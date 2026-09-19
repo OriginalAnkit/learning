@@ -5,7 +5,9 @@ description: Learn how to build a CLI-based event-driven architecture using Kafk
 tags: nodejs, kafka, architecture, eventdriven
 ---
 
-# Building an Event-Driven Restaurant System with Node.js and Kafka
+**🔗 Source Code:** [View on GitHub](https://github.com/OriginalAnkit/learning/tree/master/restaurant-kafka-cli)
+
+![Event-Driven Restaurant System](image.png)
 
 Have you ever wondered how food delivery apps handle thousands of orders, notifications, and billing processes simultaneously? The secret lies in **Event-Driven Architecture (EDA)**. 
 
